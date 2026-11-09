@@ -1,0 +1,6 @@
+{
+  "name": "Delo Mecânica e Peças Diesel",
+  "description": "Oficina mecânica diesel especializada, comércio de peças para veículos pesados e guincho 24 horas com frota própria em João Monlevade - MG e atuação nacional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
